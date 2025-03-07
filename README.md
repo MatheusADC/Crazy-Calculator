@@ -6,3 +6,8 @@ The crazy calculator is a calculator that performs random mathematical operation
 ```
 pip install Flask==3.0.1
 ```
+
+### Pytest installation
+```
+pip install pytest==8.0.0
+```
