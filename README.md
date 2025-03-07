@@ -11,3 +11,8 @@ pip install Flask==3.0.1
 ```
 pip install pytest==8.0.0
 ```
+
+### Run unit tests
+```
+pytest -s -v
+```
