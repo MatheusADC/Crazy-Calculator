@@ -16,3 +16,7 @@ pip install pytest==8.0.0
 ```
 pytest -s -v
 ```
+### Numpy Installation
+```
+pip install numpy==1.26.4
+```
